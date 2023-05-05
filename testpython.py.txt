@@ -1,1 +1,7 @@
 print ("hello")
+hungry=input("are you hungry?")
+if hungry=="yes":
+  print("eat snaks")
+else:
+  print("go for study")
+
